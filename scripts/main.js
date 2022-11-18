@@ -35,4 +35,8 @@ function setUserName() {
 
   myButton.onclick = () => {
     setUserName();
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> 8a93e0e7229675cc3f71d6558d2e305ed6f9390b
